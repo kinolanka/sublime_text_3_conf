@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"CSS Format",
+		"Emmet",
+		"FTPSync",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"jQuery",
+		"jsonnet syntax",
+		"Material Theme",
+		"Package Control",
+		"PHP Completions Kit",
+		"Sass",
+		"SideBarEnhancements",
+		"WordPress"
+	]
+}
